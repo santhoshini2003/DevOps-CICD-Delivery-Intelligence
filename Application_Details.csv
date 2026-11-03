@@ -1,0 +1,31 @@
+Application_ID,Application_Name,Service_Name,Project_ID,Business_Domain,Criticality,Owner_Team,Technology,Environment
+APP001,Payment Gateway,payment-gateway-svc,PRJ02,Security,Critical,Cloud Ops / SRE,Node.js / Express,GCP
+APP002,Order Service,order-service-svc,PRJ02,Banking,Medium,Cloud Ops / SRE,Kubernetes Microservice,AWS
+APP003,Inventory Manager,inventory-manager-svc,PRJ06,Payments,Low,Payments Core,·NET Core,Azure
+APP004,User Auth Service,user-auth-service-svc,PRJ04,Customer Support,Low,Mobile Apps,Kubernetes Microservice,Azure
+APP005,Notification Hub,notification-hub-svc,PRJ01,E-commerce,High,QA Automation,Angular,AWS
+APP006,Fraud Detection Engine,fraud-detection-engine-svc,PRJ03,Customer Support,High,QA Automation,Go / Gin,Hybrid (AWS+On-Prem)
+APP007,Customer Portal,customer-portal-svc,PRJ02,Logistics,Low,Cloud Ops / SRE,Go / Gin,Azure
+APP008,Billing Service,billing-service-svc,PRJ05,Payments,Low,Payments Core,React / Next.js,AWS
+APP009,Shipment Tracker,shipment-tracker-svc,PRJ05,Customer Support,Low,Payments Core,Python / FastAPI,Azure
+APP010,Loyalty Rewards,loyalty-rewards-svc,PRJ05,Banking,Low,Payments Core,Node.js / Express,AWS
+APP011,Search Service,search-service-svc,PRJ06,Logistics,High,Platform Infra,Angular,AWS
+APP012,Recommendation Engine,recommendation-engine-svc,PRJ05,Payments,Medium,Data Engineering,·NET Core,Hybrid (AWS+On-Prem)
+APP013,Checkout Service,checkout-service-svc,PRJ03,Logistics,Low,Security & Compliance,React / Next.js,Azure
+APP014,Wallet Service,wallet-service-svc,PRJ04,E-commerce,High,Frontend Web,Go / Gin,Hybrid (AWS+On-Prem)
+APP015,KYC Verification,kyc-verification-svc,PRJ01,Payments,Critical,Security & Compliance,Kubernetes Microservice,AWS
+APP016,Loan Origination,loan-origination-svc,PRJ05,Logistics,High,Platform Infra,Python / FastAPI,GCP
+APP017,Reporting Service,reporting-service-svc,PRJ03,Banking,Medium,Mobile Apps,Python / Django,GCP
+APP018,Analytics Pipeline,analytics-pipeline-svc,PRJ02,Customer Support,Low,Frontend Web,Python / FastAPI,GCP
+APP019,Mobile Banking API,mobile-banking-api-svc,PRJ06,HR,Low,Payments Core,·NET Core,Azure
+APP020,Chat Support Bot,chat-support-bot-svc,PRJ01,Banking,High,Frontend Web,Python / FastAPI,Azure
+APP021,Fleet Tracking Service,fleet-tracking-service-svc,PRJ03,Logistics,High,Frontend Web,React / Next.js,Azure
+APP022,Warehouse Management,warehouse-management-svc,PRJ05,Customer Support,Medium,Frontend Web,Go / Gin,AWS
+APP023,Pricing Engine,pricing-engine-svc,PRJ06,Security,Critical,Platform Infra,Go / Gin,AWS
+APP024,Catalog Service,catalog-service-svc,PRJ03,E-commerce,High,Payments Core,Go / Gin,Azure
+APP025,Subscription Manager,subscription-manager-svc,PRJ05,Security,Critical,Cloud Ops / SRE,Python / FastAPI,AWS
+APP026,Identity Provider,identity-provider-svc,PRJ01,E-commerce,High,Platform Infra,Python / FastAPI,AWS
+APP027,API Gateway,api-gateway-svc,PRJ05,E-commerce,Medium,Security & Compliance,Angular,Azure
+APP028,Audit Log Service,audit-log-service-svc,PRJ03,Analytics,Medium,Payments Core,Java / Spring Boot,GCP
+APP029,Document Management,document-management-svc,PRJ06,Logistics,High,Data Engineering,·NET Core,GCP
+APP030,Risk Scoring Engine,risk-scoring-engine-svc,PRJ05,E-commerce,Medium,QA Automation,Python / Django,Azure
